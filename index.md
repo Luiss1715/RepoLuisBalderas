@@ -17,13 +17,13 @@ I'm currently a Product Analytics Intern at **PayPal**, with experience in **pay
 Here are some ZIP files that showcase my work:
 
 - [Reto Aeropuerto](Reto_Aeropuerto-20221101T223744Z-001.zip)  
-  A data challenge focused on airport operations and logistics.
+  A data challenge focused on airport tickets reservation in C++.
 
 - [Reto Rating Videos](Reto_RatingVideos.zip)  
-  A video content scoring project using data-driven modeling.
+  A object oriented program in C++ about rating movies/series with users.
 
 - [TC1031 Final Portfolio](TC1031%28Portafolio_Final%29-Luis%20Balderas.zip)  
-  My full submission from the Data Structures course at ITESM.
+  My full submission from data structure challenge in C++ from ITESM.
 
 ---
 
